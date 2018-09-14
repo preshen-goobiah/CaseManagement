@@ -3560,23 +3560,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/Preshen/.nuget/packages/": {},
+    "/Users/marc/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementData/CaseManagementData.csproj",
+      "projectUniqueName": "/Users/marc/Desktop/AzureWebApp/CaseManagement/CaseManagementData/CaseManagementData.csproj",
       "projectName": "CaseManagementData",
-      "projectPath": "/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementData/CaseManagementData.csproj",
-      "packagesPath": "/Users/Preshen/.nuget/packages/",
-      "outputPath": "/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementData/obj",
+      "projectPath": "/Users/marc/Desktop/AzureWebApp/CaseManagement/CaseManagementData/CaseManagementData.csproj",
+      "packagesPath": "/Users/marc/.nuget/packages/",
+      "outputPath": "/Users/marc/Desktop/AzureWebApp/CaseManagement/CaseManagementData/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Preshen/.config/NuGet/NuGet.Config"
+        "/Users/marc/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -3598,12 +3598,6 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "2.0",
-            "autoReferenced": true
-          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "2.1.1"
@@ -3615,6 +3609,12 @@
           "Microsoft.EntityFrameworkCore.Tools": {
             "target": "Package",
             "version": "2.1.1"
+          },
+          "Microsoft.NETCore.App": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "2.0",
+            "autoReferenced": true
           }
         },
         "imports": [

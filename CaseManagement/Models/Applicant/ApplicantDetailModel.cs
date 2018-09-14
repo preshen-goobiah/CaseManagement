@@ -7,5 +7,6 @@ namespace CaseManagement.Models.Applicant
 {
     public class ApplicantDetailModel
     {
+        //comment
     }
 }
