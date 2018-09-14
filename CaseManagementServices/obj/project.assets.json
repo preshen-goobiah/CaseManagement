@@ -3578,23 +3578,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/marc/.nuget/packages/": {},
+    "/Users/Preshen/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marc/Desktop/AzureWebApp/CaseManagement/CaseManagementServices/CaseManagementServices.csproj",
+      "projectUniqueName": "/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/CaseManagementServices.csproj",
       "projectName": "CaseManagementServices",
-      "projectPath": "/Users/marc/Desktop/AzureWebApp/CaseManagement/CaseManagementServices/CaseManagementServices.csproj",
-      "packagesPath": "/Users/marc/.nuget/packages/",
-      "outputPath": "/Users/marc/Desktop/AzureWebApp/CaseManagement/CaseManagementServices/obj",
+      "projectPath": "/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/CaseManagementServices.csproj",
+      "packagesPath": "/Users/Preshen/.nuget/packages/",
+      "outputPath": "/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/marc/.config/NuGet/NuGet.Config"
+        "/Users/Preshen/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -3605,8 +3605,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/marc/Desktop/AzureWebApp/CaseManagement/CaseManagementData/CaseManagementData.csproj": {
-              "projectPath": "/Users/marc/Desktop/AzureWebApp/CaseManagement/CaseManagementData/CaseManagementData.csproj"
+            "/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementData/CaseManagementData.csproj": {
+              "projectPath": "/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementData/CaseManagementData.csproj"
             }
           }
         }
