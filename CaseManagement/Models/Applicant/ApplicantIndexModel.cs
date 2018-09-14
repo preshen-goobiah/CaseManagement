@@ -7,6 +7,6 @@ namespace CaseManagement.Models.Applicant
 {
     public class ApplicantIndexModel
     {
-        public IEnumerable<CaseManagementData.Models.Applicant> Applicants { get; set; }
+        public IEnumerable<CaseManagementData.Models.Applicant> Applicants { get; set; } 
     }
 }

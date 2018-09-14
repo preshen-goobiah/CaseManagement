@@ -8,8 +8,6 @@ namespace CaseManagement.Models.Applicant
     public class ApplicantDetailModel
     {
 
-        public int a;
-        int b;
-        string c;
+      
     }
 }
