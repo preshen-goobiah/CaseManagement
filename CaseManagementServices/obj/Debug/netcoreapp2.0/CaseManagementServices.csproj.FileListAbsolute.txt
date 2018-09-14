@@ -1,48 +1,60 @@
-C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\bin\Debug\netcoreapp2.0\CaseManagementServices.deps.json
-C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\bin\Debug\netcoreapp2.0\CaseManagementServices.dll
-C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\bin\Debug\netcoreapp2.0\CaseManagementServices.pdb
-C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\bin\Debug\netcoreapp2.0\CaseManagementData.dll
-C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\bin\Debug\netcoreapp2.0\CaseManagementData.pdb
-C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\CaseManagementServices.csprojResolveAssemblyReference.cache
-C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\CaseManagementServices.csproj.CoreCompileInputs.cache
-C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\CaseManagementServices.AssemblyInfoInputs.cache
-C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\CaseManagementServices.AssemblyInfo.cs
-C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\CaseManagementServices.csproj.CopyComplete
-C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\CaseManagementServices.dll
-C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\CaseManagementServices.pdb
-C:\Users\Preshen\Desktop\Library - Copy\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.csprojResolveAssemblyReference.cache
-C:\Users\Preshen\Desktop\Library - Copy\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.csproj.CoreCompileInputs.cache
-C:\Users\Preshen\Desktop\Library - Copy\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.AssemblyInfoInputs.cache
-C:\Users\Preshen\Desktop\Library - Copy\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.AssemblyInfo.cs
-C:\Users\Preshen\Desktop\Library - Copy\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.dll
-C:\Users\Preshen\Desktop\Library - Copy\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.pdb
-C:\Users\Preshen\Desktop\Library - Copy\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementServices.deps.json
-C:\Users\Preshen\Desktop\Library - Copy\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementServices.dll
-C:\Users\Preshen\Desktop\Library - Copy\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementServices.pdb
-C:\Users\Preshen\Desktop\Library - Copy\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementData.dll
-C:\Users\Preshen\Desktop\Library - Copy\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementData.pdb
-C:\Users\Preshen\Desktop\Library - Copy\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.csproj.CopyComplete
-C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementServices.deps.json
-C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementServices.dll
-C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementServices.pdb
-C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementData.dll
-C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementData.pdb
-C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.csprojResolveAssemblyReference.cache
-C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.csproj.CoreCompileInputs.cache
-C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.AssemblyInfoInputs.cache
-C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.AssemblyInfo.cs
-C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.csproj.CopyComplete
-C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.dll
-C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.pdb
-C:\Users\Preshen\Downloads\CaseManagement\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementServices.deps.json
-C:\Users\Preshen\Downloads\CaseManagement\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementServices.dll
-C:\Users\Preshen\Downloads\CaseManagement\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementServices.pdb
-C:\Users\Preshen\Downloads\CaseManagement\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementData.dll
-C:\Users\Preshen\Downloads\CaseManagement\CaseManagementServices\bin\Debug\netcoreapp2.0\CaseManagementData.pdb
-C:\Users\Preshen\Downloads\CaseManagement\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.csprojResolveAssemblyReference.cache
-C:\Users\Preshen\Downloads\CaseManagement\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.csproj.CoreCompileInputs.cache
-C:\Users\Preshen\Downloads\CaseManagement\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.AssemblyInfoInputs.cache
-C:\Users\Preshen\Downloads\CaseManagement\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.AssemblyInfo.cs
-C:\Users\Preshen\Downloads\CaseManagement\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.csproj.CopyComplete
-C:\Users\Preshen\Downloads\CaseManagement\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.dll
-C:\Users\Preshen\Downloads\CaseManagement\CaseManagementServices\obj\Debug\netcoreapp2.0\CaseManagementServices.pdb
+C:/Users/Preshen/Desktop/Library - Copy/LibraryServices/bin/Debug/netcoreapp2.0/CaseManagementServices.deps.json
+C:/Users/Preshen/Desktop/Library - Copy/LibraryServices/bin/Debug/netcoreapp2.0/CaseManagementServices.dll
+C:/Users/Preshen/Desktop/Library - Copy/LibraryServices/bin/Debug/netcoreapp2.0/CaseManagementServices.pdb
+C:/Users/Preshen/Desktop/Library - Copy/LibraryServices/bin/Debug/netcoreapp2.0/CaseManagementData.dll
+C:/Users/Preshen/Desktop/Library - Copy/LibraryServices/bin/Debug/netcoreapp2.0/CaseManagementData.pdb
+C:/Users/Preshen/Desktop/Library - Copy/LibraryServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csprojResolveAssemblyReference.cache
+C:/Users/Preshen/Desktop/Library - Copy/LibraryServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csproj.CoreCompileInputs.cache
+C:/Users/Preshen/Desktop/Library - Copy/LibraryServices/obj/Debug/netcoreapp2.0/CaseManagementServices.AssemblyInfoInputs.cache
+C:/Users/Preshen/Desktop/Library - Copy/LibraryServices/obj/Debug/netcoreapp2.0/CaseManagementServices.AssemblyInfo.cs
+C:/Users/Preshen/Desktop/Library - Copy/LibraryServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csproj.CopyComplete
+C:/Users/Preshen/Desktop/Library - Copy/LibraryServices/obj/Debug/netcoreapp2.0/CaseManagementServices.dll
+C:/Users/Preshen/Desktop/Library - Copy/LibraryServices/obj/Debug/netcoreapp2.0/CaseManagementServices.pdb
+C:/Users/Preshen/Desktop/Library - Copy/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csprojResolveAssemblyReference.cache
+C:/Users/Preshen/Desktop/Library - Copy/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csproj.CoreCompileInputs.cache
+C:/Users/Preshen/Desktop/Library - Copy/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.AssemblyInfoInputs.cache
+C:/Users/Preshen/Desktop/Library - Copy/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.AssemblyInfo.cs
+C:/Users/Preshen/Desktop/Library - Copy/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.dll
+C:/Users/Preshen/Desktop/Library - Copy/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.pdb
+C:/Users/Preshen/Desktop/Library - Copy/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementServices.deps.json
+C:/Users/Preshen/Desktop/Library - Copy/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementServices.dll
+C:/Users/Preshen/Desktop/Library - Copy/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementServices.pdb
+C:/Users/Preshen/Desktop/Library - Copy/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementData.dll
+C:/Users/Preshen/Desktop/Library - Copy/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementData.pdb
+C:/Users/Preshen/Desktop/Library - Copy/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csproj.CopyComplete
+C:/Users/Preshen/Downloads/CaseManagement9pm/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementServices.deps.json
+C:/Users/Preshen/Downloads/CaseManagement9pm/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementServices.dll
+C:/Users/Preshen/Downloads/CaseManagement9pm/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementServices.pdb
+C:/Users/Preshen/Downloads/CaseManagement9pm/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementData.dll
+C:/Users/Preshen/Downloads/CaseManagement9pm/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementData.pdb
+C:/Users/Preshen/Downloads/CaseManagement9pm/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csprojResolveAssemblyReference.cache
+C:/Users/Preshen/Downloads/CaseManagement9pm/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csproj.CoreCompileInputs.cache
+C:/Users/Preshen/Downloads/CaseManagement9pm/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.AssemblyInfoInputs.cache
+C:/Users/Preshen/Downloads/CaseManagement9pm/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.AssemblyInfo.cs
+C:/Users/Preshen/Downloads/CaseManagement9pm/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csproj.CopyComplete
+C:/Users/Preshen/Downloads/CaseManagement9pm/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.dll
+C:/Users/Preshen/Downloads/CaseManagement9pm/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.pdb
+C:/Users/Preshen/Downloads/CaseManagement/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementServices.deps.json
+C:/Users/Preshen/Downloads/CaseManagement/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementServices.dll
+C:/Users/Preshen/Downloads/CaseManagement/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementServices.pdb
+C:/Users/Preshen/Downloads/CaseManagement/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementData.dll
+C:/Users/Preshen/Downloads/CaseManagement/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementData.pdb
+C:/Users/Preshen/Downloads/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csprojResolveAssemblyReference.cache
+C:/Users/Preshen/Downloads/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csproj.CoreCompileInputs.cache
+C:/Users/Preshen/Downloads/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.AssemblyInfoInputs.cache
+C:/Users/Preshen/Downloads/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.AssemblyInfo.cs
+C:/Users/Preshen/Downloads/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csproj.CopyComplete
+C:/Users/Preshen/Downloads/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.dll
+C:/Users/Preshen/Downloads/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.pdb
+/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementServices.deps.json
+/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementServices.dll
+/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementServices.pdb
+/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementData.dll
+/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/bin/Debug/netcoreapp2.0/CaseManagementData.pdb
+/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csprojAssemblyReference.cache
+/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csproj.CoreCompileInputs.cache
+/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.AssemblyInfoInputs.cache
+/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.AssemblyInfo.cs
+/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.csproj.CopyComplete
+/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.dll
+/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementServices/obj/Debug/netcoreapp2.0/CaseManagementServices.pdb
