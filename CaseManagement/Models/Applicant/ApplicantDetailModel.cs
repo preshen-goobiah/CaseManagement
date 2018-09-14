@@ -8,10 +8,11 @@ namespace CaseManagement.Models.Applicant
     public class ApplicantDetailModel
     {
         public String name;
-<<<<<<< HEAD
+
         public int commit;
-=======
+
         public String address; 
->>>>>>> d6dad63... commit2
+    
+
     }
 }
