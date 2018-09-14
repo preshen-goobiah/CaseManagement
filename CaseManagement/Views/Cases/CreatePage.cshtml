@@ -1,0 +1,56 @@
+﻿@model CaseManagementData.Models.Case
+
+@{
+    ViewData["Title"] = "Home";
+ 
+}
+
+
+
+<h3 align="left">Create a Case for, @Model.Applicant.FirstName @Model.Applicant.LastName</h3>
+
+<div class="mdl-grid">
+    <div class="mdl-cell mdl-cell--6-col">
+        <div>
+           
+            <form asp-action="Create"  class="createCase" asp-route-userid ="@Model.User.Id" asp-route-applicantid="@Model.Applicant.Id">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group col-xs-pull-6">
+                    <label asp-for="LoanAmount" class="control-label">Loan Amount:</label>
+                    <input asp-for="LoanAmount" class="form-control" id="LoanAmount" />
+                    <span asp-validation-for="LoanAmount" class="text-danger"></span>
+
+                </div>
+                <div class="form-group col-xs-pull-6">
+
+                    <label asp-for="OfferToPurchaseDoc" class="control-label">Offer To Purchase Doc:</label>
+                    <input asp-for="OfferToPurchaseDoc" class="form-check-input" type="checkbox" id="OfferToPurchaseDoc" />
+                    <span asp-validation-for="OfferToPurchaseDoc" class="text-danger"></span>
+
+
+                </div>
+               
+
+                
+
+                <div class="form-group">
+                   
+                    <input name="submitBtn" id="submitBtn" type="submit" value="Create" class="success btn btn-success" disabled />
+                    <script type="text/javascript" src="~/js/site.js"></script> 
+                    <script> $("#LoanAmount").on("blur", function () {
+                            // validate form
+                            if ($(".createCase").valid()) {
+                                $("#submitBtn").removeAttr("disabled");
+                            }
+                        }); </script>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

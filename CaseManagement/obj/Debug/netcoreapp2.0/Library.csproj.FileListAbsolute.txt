@@ -1,0 +1,16 @@
+C:\Users\Preshen\Desktop\Library\Library\bin\Debug\netcoreapp2.0\Library.deps.json
+C:\Users\Preshen\Desktop\Library\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.json
+C:\Users\Preshen\Desktop\Library\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.dev.json
+C:\Users\Preshen\Desktop\Library\Library\bin\Debug\netcoreapp2.0\Library.dll
+C:\Users\Preshen\Desktop\Library\Library\bin\Debug\netcoreapp2.0\Library.pdb
+C:\Users\Preshen\Desktop\Library\Library\obj\Debug\netcoreapp2.0\Library.csprojResolveAssemblyReference.cache
+C:\Users\Preshen\Desktop\Library\Library\obj\Debug\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Preshen\Desktop\Library\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+C:\Users\Preshen\Desktop\Library\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.cs
+C:\Users\Preshen\Desktop\Library\Library\obj\Debug\netcoreapp2.0\Library.dll
+C:\Users\Preshen\Desktop\Library\Library\obj\Debug\netcoreapp2.0\Library.pdb
+C:\Users\Preshen\Desktop\Library\Library\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\Preshen\Desktop\Library\Library\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\Preshen\Desktop\Library\Library\obj\Debug\netcoreapp2.0\Library.csproj.CopyComplete
+C:\Users\Preshen\Desktop\Library\Library\bin\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\Preshen\Desktop\Library\Library\bin\Debug\netcoreapp2.0\LibraryServices.pdb

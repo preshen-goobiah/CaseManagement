@@ -1,0 +1,44 @@
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\bin\Debug\netcoreapp2.0\CaseManagementData.deps.json
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\bin\Debug\netcoreapp2.0\CaseManagementData.runtimeconfig.json
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\bin\Debug\netcoreapp2.0\CaseManagementData.runtimeconfig.dev.json
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\bin\Debug\netcoreapp2.0\CaseManagementData.dll
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\bin\Debug\netcoreapp2.0\CaseManagementData.pdb
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\obj\Debug\netcoreapp2.0\CaseManagementData.csprojResolveAssemblyReference.cache
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\obj\Debug\netcoreapp2.0\CaseManagementData.csproj.CoreCompileInputs.cache
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\obj\Debug\netcoreapp2.0\CaseManagementData.AssemblyInfoInputs.cache
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\obj\Debug\netcoreapp2.0\CaseManagementData.AssemblyInfo.cs
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\obj\Debug\netcoreapp2.0\CaseManagementData.dll
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\obj\Debug\netcoreapp2.0\CaseManagementData.pdb
+C:\Users\Preshen\Desktop\Library - Copy\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.deps.json
+C:\Users\Preshen\Desktop\Library - Copy\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.runtimeconfig.json
+C:\Users\Preshen\Desktop\Library - Copy\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.runtimeconfig.dev.json
+C:\Users\Preshen\Desktop\Library - Copy\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.dll
+C:\Users\Preshen\Desktop\Library - Copy\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.pdb
+C:\Users\Preshen\Desktop\Library - Copy\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.csprojResolveAssemblyReference.cache
+C:\Users\Preshen\Desktop\Library - Copy\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.csproj.CoreCompileInputs.cache
+C:\Users\Preshen\Desktop\Library - Copy\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.AssemblyInfoInputs.cache
+C:\Users\Preshen\Desktop\Library - Copy\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.AssemblyInfo.cs
+C:\Users\Preshen\Desktop\Library - Copy\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.dll
+C:\Users\Preshen\Desktop\Library - Copy\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.pdb
+C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.deps.json
+C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.runtimeconfig.json
+C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.runtimeconfig.dev.json
+C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.dll
+C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.pdb
+C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.csprojResolveAssemblyReference.cache
+C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.csproj.CoreCompileInputs.cache
+C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.AssemblyInfoInputs.cache
+C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.AssemblyInfo.cs
+C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.dll
+C:\Users\Preshen\Downloads\CaseManagement9pm\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.pdb
+C:\Users\Preshen\Downloads\CaseManagement\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.deps.json
+C:\Users\Preshen\Downloads\CaseManagement\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.runtimeconfig.json
+C:\Users\Preshen\Downloads\CaseManagement\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.runtimeconfig.dev.json
+C:\Users\Preshen\Downloads\CaseManagement\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.dll
+C:\Users\Preshen\Downloads\CaseManagement\CaseManagementData\bin\Debug\netcoreapp2.0\CaseManagementData.pdb
+C:\Users\Preshen\Downloads\CaseManagement\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.csprojResolveAssemblyReference.cache
+C:\Users\Preshen\Downloads\CaseManagement\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.csproj.CoreCompileInputs.cache
+C:\Users\Preshen\Downloads\CaseManagement\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.AssemblyInfoInputs.cache
+C:\Users\Preshen\Downloads\CaseManagement\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.AssemblyInfo.cs
+C:\Users\Preshen\Downloads\CaseManagement\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.dll
+C:\Users\Preshen\Downloads\CaseManagement\CaseManagementData\obj\Debug\netcoreapp2.0\CaseManagementData.pdb

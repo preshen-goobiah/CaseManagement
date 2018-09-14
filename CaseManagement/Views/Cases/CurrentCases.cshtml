@@ -1,0 +1,70 @@
+﻿@model CaseManagement.Models.Cases.CasesIndexModel
+@{
+    ViewBag.Title = "Current Cases";
+}
+
+
+<div class="row">
+    <h3 class="column" float="right"
+        width="50%">
+        @ViewBag.Title
+    </h3>
+  
+
+</div>
+
+
+
+<div id="patronIndex">
+
+    <table class="mdl-data-table mdl-data-table--selectable mdl-shadow--2dp customTable" id="patronIndexTable">
+
+        <thead>
+            <tr>
+                <th>Case ID</th>
+                <th>Applicant </th>
+                <th>Loan Amount</th>
+                <th>Status</th>
+                <th>Offer To Purchase Doc</th>
+                <th>Date Created</th>
+                <th>Submission</th>
+               
+            </tr>
+
+        </thead>
+
+        <tbody>
+            @foreach (var cases in Model.Cases)
+            {
+            <tr>
+                
+                <td> @cases.Id</td>
+                <td>@cases.Applicant.FirstName @cases.Applicant.LastName</td>
+                <td>@cases.LoanAmount</td>
+                @if(cases.Status.Name == "Created")
+                {
+                    <td style="color: orangered"><b>@cases.Status.Name </b> </td>
+
+                }
+                else if(cases.Status.Name == "In Progress")
+                {
+                    <td style="color: darkorange"><b>@cases.Status.Name </b></td>
+
+                }
+
+                <td>@cases.OfferToPurchaseDoc</td>
+                <td>@cases.DateCreated</td>
+
+
+
+                <td><a asp-controller="Submissions" asp-action="CreatePage" asp-route-caseId="@cases.Id">Submissions</a></td>
+
+            </tr>
+
+            }
+
+        </tbody>
+
+    </table>
+
+</div>

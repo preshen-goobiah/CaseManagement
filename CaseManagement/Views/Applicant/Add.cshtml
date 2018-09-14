@@ -1,0 +1,92 @@
+﻿@model CaseManagementData.Models.Applicant
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<h3 align="left">Create an Applicant</h3>
+
+<div class="mdl-grid">
+    <div class="mdl-cell mdl-cell--12-col">
+        <div>
+            <form asp-action="Create" class="createApplicant">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group col-xl-12">
+                    <label asp-for="IdNumber" class="control-label">ID Number:</label>
+                    <input asp-for="IdNumber" class="form-control" />
+                    <span asp-validation-for="IdNumber" class="text-danger"></span>
+
+                </div>
+                <div class="form-group col-xl-12">
+
+                    <label asp-for="FirstName" class="control-label">First Name:</label>
+                    <input asp-for="FirstName" class="form-control" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+
+
+                </div>
+                <div class="form-group col-xl-12">
+                    <label asp-for="LastName" class="control-label">Last Name:</label>
+                    <input asp-for="LastName" class="form-control" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+
+
+                </div>
+
+                <div class="form-group col-xl-12">
+                    <label asp-for="Income" class="control-label">Income (R):</label>
+                    <input asp-for="Income" class="form-control" />
+                    <span asp-validation-for="Income" class="text-danger"></span>
+
+                </div>
+
+                <div class="form-group col-xl-12">
+                    <label asp-for="Credit" class="control-label">Credit:</label>
+                    <input asp-for="Credit" class="form-control" />
+                    <span asp-validation-for="Income" class="text-danger"></span>
+
+                </div>
+
+                <div class="form-group col-xl-12">
+                    <label asp-for="Email" class="control-label">Email:</label>
+                    <input asp-for="Email" class="form-control" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+
+                </div>
+
+                <div class="form-group col-xl-12">
+                    <label asp-for="Cellphone" class="control-label">Cellphone Number:</label>
+                    <input asp-for="Cellphone" class="form-control" />
+                    <span asp-validation-for="Cellphone" class="text-danger"></span>
+
+                </div>
+
+                <div class="form-group col-xl-12 DOBDiv">
+                    <label asp-for="DateOfBirth" class="control-label">Date Of Birth:</label>
+                    <input asp-for="DateOfBirth" class="form-control DOBInput" type="date" />
+                    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                </div>
+
+
+
+                <div class="form-group">
+
+                    <button name="submitBtn" id="submitBtn" type="submit" value="Create" class="successApplicant btn btn-success" disabled><i class="glyphicon glyphicon-plus"></i> Create Applicant</button>
+                    <script>
+                        $(".DOBInput").on("blur", function () {
+                            // validate form
+                            if ($(".createApplicant").valid()) {
+                                $("#submitBtn").removeAttr("disabled");
+                            }
+                        });</script>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+
+<script type="text/javascript" src="~/js/site.js"></script>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

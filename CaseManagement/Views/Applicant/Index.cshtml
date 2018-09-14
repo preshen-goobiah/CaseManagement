@@ -1,0 +1,77 @@
+﻿@model CaseManagement.Models.Applicant.ApplicantIndexModel
+
+@{
+    ViewBag.Title = "All Applicants";
+}
+
+
+<div class="row">
+    <h3>@ViewBag.Title</h3>
+</div>
+<div class="row well">
+    <table align="left">
+        <tr>
+            <td >
+                <div class="">
+                    <form asp-controller="Applicant" asp-action="Search" method="post">
+                        <input id="searchString" name="searchString" on type="text" placeholder="Search by First Name" class="p-lg-3" for="searchString" />
+                        <button name="submitBtn" id="submitBtn" type="submit" value="Create" class="successApplicant btn btn-info " style="margin-right: 10px; background-color: #002587; border: none;  "><i class="glyphicon glyphicon-search"></i> Search</button>
+                    </form>
+                    
+
+                </div>
+
+
+            </td>
+            <td width="150px">
+           <a asp-action="Index"><button class="successApplicant btn btn-info" style="background-color: #002587; border: none; "><i class="glyphicon glyphicon-remove"> </i>Clear</button> </a></td>
+         
+            <td>
+                <div class="">
+                    <a asp-controller="Applicant" asp-action="Add"> <button class="btn btn-success btn-sm"><i class="glyphicon glyphicon-plus"></i> Create New Applicant </button></a>
+                </div>
+            </td>
+
+        </tr>
+    </table>
+</div>
+
+
+
+<div id="patronIndex">
+
+    <table class="mdl-data-table mdl-data-table--selectable mdl-shadow--2dp customTable" id="patronIndexTable">
+
+        <thead>
+            <tr>
+               
+                <th>Last Name </th>
+                <th>First Name </th>
+                <th>Identity Number</th>
+                
+                <th>Case</th>
+            </tr>
+
+        </thead>
+
+        <tbody>
+            @foreach (var applicant in Model.Applicants)
+            {
+                <tr>
+                   
+
+                    <td>@applicant.LastName</td>
+                    <td>@applicant.FirstName</td>
+                    <td>@applicant.IdNumber</td>
+                    
+                    <td><a asp-controller="Cases" asp-action="CreatePage" asp-route-id="1" asp-route-applicantId="@applicant.Id">Create Case</a></td>
+
+                </tr>
+
+            }
+
+        </tbody>
+
+    </table>
+
+</div>

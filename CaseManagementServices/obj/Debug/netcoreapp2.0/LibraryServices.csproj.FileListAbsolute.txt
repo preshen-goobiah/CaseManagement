@@ -1,0 +1,24 @@
+C:\Users\Preshen\Desktop\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.csprojResolveAssemblyReference.cache
+C:\Users\Preshen\Desktop\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\Preshen\Desktop\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\Preshen\Desktop\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfo.cs
+C:\Users\Preshen\Desktop\Library\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.deps.json
+C:\Users\Preshen\Desktop\Library\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\Preshen\Desktop\Library\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.pdb
+C:\Users\Preshen\Desktop\Library\LibraryServices\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\Preshen\Desktop\Library\LibraryServices\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\Preshen\Desktop\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.csproj.CopyComplete
+C:\Users\Preshen\Desktop\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\Preshen\Desktop\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.pdb
+C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.deps.json
+C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.pdb
+C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.csprojResolveAssemblyReference.cache
+C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfo.cs
+C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.csproj.CopyComplete
+C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\Preshen\Desktop\Library - Copy\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.pdb

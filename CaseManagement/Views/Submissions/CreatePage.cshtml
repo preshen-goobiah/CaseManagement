@@ -1,0 +1,93 @@
+﻿@model CaseManagement.Models.Submissions.SubmissionDetailModel
+
+@{
+    ViewData["Title"] = "Home";
+ 
+
+}
+
+
+<h3>Submissions to Banks</h3>
+<div class="mdl-grid">
+
+    <div class="mdl-cell mdl-cell--4-col">
+        <div class="well">
+            <h4>
+                Case ID: <b> @Model.submission.Case.Id<br /></b>
+                Applicant: <br /><b> @Model.submission.Case.Applicant.FirstName @Model.submission.Case.Applicant.LastName</b>
+            </h4>
+            <h5>Submit to:</h5>
+            <form asp-action="Create" class="Create" asp-route-caseid="@Model.submission.Case.Id">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group col-xs-pull-6">
+
+                    <select asp-for="submission.Bank" name="bankname" id="selectBank">
+
+                        @foreach (var bank in Model.banks)
+                        {
+                            <option value="@bank.Name"> @bank.Name</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+
+                    <button name="submitBtn" id="successSubmission" type="submit" value="Create" class="successSubmission btn btn-success"><i class="glyphicon glyphicon-plus"></i> Add Bank</button>
+                    <script type="text/javascript">
+                        $("#successSubmission").click(function () {
+                            $.bootstrapGrowl('New Submission Created.', {
+                                type: 'success',
+                                delay: 2000,
+                            });
+                        });</script>
+
+
+                </div>
+            </form>
+        </div>
+    </div>
+    <div id="submissionIndex" class="mdl-cell mdl-cell--4-col">
+        <table class="mdl-data-table mdl-data-table--selectable mdl-shadow--2dp customTable" id="submissionIndexTable">
+
+            <thead>
+                <tr>
+                    <th>Bank Name </th>
+                    <th>Date Submitted </th>
+                    <th>Status</th>
+                    <th>Response</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var submission in Model.previous_submissions)
+                {
+                <tr>
+                    <td>@submission.Bank.Name</td>
+                    <td>@submission.DateSubmitted</td>
+                    <td>@submission.Status.Name</td>
+                    @if (submission.Status.Name == "Submitted")
+                    {
+                            <td><a asp-controller="Submissions" asp-action="UpdateSubmissionPage" asp-route-submissionid="@submission.Id">Add Response</a></td>
+
+                    }
+                    else
+                    {
+                        <td style="color: #2aa713">Response recorded</td>
+
+                    }
+
+                </tr>
+                }
+
+            </tbody>
+
+        </table>
+
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

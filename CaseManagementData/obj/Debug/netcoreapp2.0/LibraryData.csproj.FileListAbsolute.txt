@@ -1,0 +1,22 @@
+C:\Users\Preshen\Desktop\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.deps.json
+C:\Users\Preshen\Desktop\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\Preshen\Desktop\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\Preshen\Desktop\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\Preshen\Desktop\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs
+C:\Users\Preshen\Desktop\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csprojResolveAssemblyReference.cache
+C:\Users\Preshen\Desktop\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.runtimeconfig.json
+C:\Users\Preshen\Desktop\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.runtimeconfig.dev.json
+C:\Users\Preshen\Desktop\Library\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\Preshen\Desktop\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\Preshen\Desktop\Library\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.deps.json
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.runtimeconfig.json
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.runtimeconfig.dev.json
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csprojResolveAssemblyReference.cache
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\Preshen\Desktop\Library - Copy\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.pdb
