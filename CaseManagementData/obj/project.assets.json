@@ -3560,30 +3560,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Preshen\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/Preshen/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Preshen\\Downloads\\CaseManagement\\CaseManagementData\\CaseManagementData.csproj",
+      "projectUniqueName": "/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementData/CaseManagementData.csproj",
       "projectName": "CaseManagementData",
-      "projectPath": "C:\\Users\\Preshen\\Downloads\\CaseManagement\\CaseManagementData\\CaseManagementData.csproj",
-      "packagesPath": "C:\\Users\\Preshen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Preshen\\Downloads\\CaseManagement\\CaseManagementData\\obj\\",
+      "projectPath": "/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementData/CaseManagementData.csproj",
+      "packagesPath": "/Users/Preshen/.nuget/packages/",
+      "outputPath": "/Users/Preshen/Documents/AAThirdYear/Semester2/IS_Project/CaseManagement/CaseManagementData/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Preshen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/Preshen/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3600,23 +3598,23 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[2.1.1, )"
-          },
-          "Microsoft.EntityFrameworkCore.SqlServer": {
-            "target": "Package",
-            "version": "[2.1.1, )"
-          },
-          "Microsoft.EntityFrameworkCore.Tools": {
-            "target": "Package",
-            "version": "[2.1.1, )"
-          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
+          },
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "2.1.1"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "2.1.1"
+          },
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "target": "Package",
+            "version": "2.1.1"
           }
         },
         "imports": [
