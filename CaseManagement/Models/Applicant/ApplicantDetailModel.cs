@@ -7,11 +7,6 @@ namespace CaseManagement.Models.Applicant
 {
     public class ApplicantDetailModel
     {
-        public String name;
-
-        public int commit;
-
-        public String address; 
     
 
     }

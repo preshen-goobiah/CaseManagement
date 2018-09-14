@@ -3598,12 +3598,6 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "2.0",
-            "autoReferenced": true
-          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "2.1.1"
@@ -3615,6 +3609,12 @@
           "Microsoft.EntityFrameworkCore.Tools": {
             "target": "Package",
             "version": "2.1.1"
+          },
+          "Microsoft.NETCore.App": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "2.0",
+            "autoReferenced": true
           }
         },
         "imports": [
