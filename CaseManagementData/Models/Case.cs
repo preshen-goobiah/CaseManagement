@@ -17,11 +17,9 @@ namespace CaseManagementData.Models
         public Status Status { get; set; }
 
         public DateTime DateCreated { get; set; }
+        public DateTime ?DateClosed { get; set; }
 
         public IEnumerable<Submission> Submissions { get; set; }
         public bool CaseSlaBreach { get; set; }
-
-
-
     }
 }

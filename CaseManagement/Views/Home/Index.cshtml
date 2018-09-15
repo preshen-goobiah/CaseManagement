@@ -2,9 +2,8 @@
     ViewData["Title"] = "Home";
 }
 
-@model  CaseManagementData.Models.User
 
-
+@model CaseManagement.Models.Home.HomeDetailModel
 <div class="mdl-grid">
 
 
@@ -17,7 +16,7 @@
                 Manage Applicants & Create Loan Applications
             </div>
             <div class="mdl-card__actions mdl-card--border">
-                <a class="mdl-button mdl-button--colored" asp-controller="Applicant" asp-action="Index" >
+                <a class="mdl-button mdl-button--colored" asp-controller="Applicant" asp-action="Index">
                     View Applicants
                 </a>
             </div>
@@ -51,7 +50,7 @@
             </div>
             <div class="mdl-card__actions mdl-card--border">
                 <a class="mdl-button mdl-button--colored" asp-controller="Reports" asp-action="Index" />
-                    View Reports
+                View Reports
                 </a>
             </div>
         </div>
@@ -59,4 +58,77 @@
 </div>
 
 
+<div class="mdl-grid">
+    <div class="mdl-cell mdl-cell--6-col">
+        <div id="patronIndex">
 
+    <table class="mdl-data-table mdl-data-table--selectable mdl-shadow--2dp customTable" id="patronIndexTable">
+
+        <thead>
+            <tr>
+
+                <th>Loan Amount</th>
+                <th>Date Created</th>
+                <th>Status</th></tg>
+                <th>Rectify</th>
+
+            </tr>
+
+        </thead>
+
+        <tbody>
+            @foreach (var cases in Model.Cases)
+            {
+                <tr>
+
+
+                    <td>@cases.LoanAmount</td>
+                    <td>@cases.DateCreated</td>
+                    <td>@cases.Status</td>
+
+
+
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+</div>
+
+
+
+
+    </div>
+    <div class="mdl-cell mdl-cell--6-col text-right">
+        <div id="patronIndex">
+
+            <table class="mdl-data-table mdl-data-table--selectable mdl-shadow--2dp customTable" id="patronIndexTable">
+                <thead>
+                    <tr>
+
+                        <th>Date Created</th>
+                        <th>Status</th>
+                        <th>Bank</th>
+                        <th>Rectify</th>
+
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var submissions in Model.Submissions)
+                {
+                    <tr>
+
+                        <td>@submissions.DateSubmitted</td>
+                        <td>@submissions.Status.Name</td>
+                        <td>@submissions.Bank.Name</td>
+
+                    </tr>
+            }
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+ </div>

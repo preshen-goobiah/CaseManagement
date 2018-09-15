@@ -17,5 +17,6 @@ namespace CaseManagementData
         void SaveChanges();
         IEnumerable<Submission> GetSubmissionsOfStatus(string status);
         IEnumerable<Submission> GetSubmissionsForCase(int caseId);
+        IEnumerable<Submission> GetBreachedSubmissions(int userId);
     }
 }

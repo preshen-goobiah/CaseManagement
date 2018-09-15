@@ -13,6 +13,7 @@ namespace CaseManagementData
         public static void Initialize(CaseManagementContext context )
         {
             context.Database.EnsureCreated();
+            context.Database.Migrate();
 
             if (!context.Statuses.Any())
             {

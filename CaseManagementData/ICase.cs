@@ -13,8 +13,13 @@ namespace CaseManagementData
         void Add(Case newCase);
         void UpdateCaseStatus(Case cases, string status);
 
+
         IEnumerable<Case> GetCases(int id);
+
         // get cases for specific user
+
+        IEnumerable<Case> GetBreachedCases(int userId);
+        // get breached cases 
 
 
     }

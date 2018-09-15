@@ -12,10 +12,12 @@ namespace CaseManagementServices
     {
 
         private CaseManagementContext _context;
+        private IStatus _status;
 
-        public CaseService(CaseManagementContext context)
+        public CaseService(CaseManagementContext context, IStatus status )
         {
             _context = context;
+            _status = status;
         }
         public void Add(Case newCase)
         {
@@ -49,9 +51,25 @@ namespace CaseManagementServices
                 .Include(c => c.Submissions)
                 .Include(c => c.Applicant)
                  .Include(c => c.Status)
-                .Where(c => c.User.Id == id);
+                .Where(c => c.User.Id == id) 
+                           .Where(c => c.Status != _status.Get("Declined"))
+                           .Where(c => c.Status != _status.Get("Full Grant"));
+                          
         }
 
+        public IEnumerable<Case> GetBreachedCases(int userId )
+        {
+
+            // get cases by user id
+            return _context.Cases
+                .Include(c => c.Submissions)
+                .Include(c => c.Applicant)
+                 .Include(c => c.Status)
+                           .Where( c=> c.Status == _status.Get("Created"))
+                           .Where(c => (System.DateTime.Now - c.DateCreated).Days > 2 )
+                           .Where(c => c.User.Id == userId);
+        }
+        
         public void UpdateCaseStatus(Case cases, string status)
         {
           
@@ -59,5 +77,7 @@ namespace CaseManagementServices
                 _context.Statuses.FirstOrDefault(s => s.Name == status);
             _context.SaveChanges();
         }
+
+
     }
 }

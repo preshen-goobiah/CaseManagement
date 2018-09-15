@@ -10,4 +10,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Migrations\20180914235316_added case closed.Designer.cs" />
+    <Compile Remove="Migrations\20180914235316_added case closed.cs" />
+  </ItemGroup>
 </Project>

@@ -11,10 +11,16 @@ namespace CaseManagementServices
     public class SubmissionService : ISubmission
     {
         private CaseManagementContext _context;
+        private ICase _cases;
+        private IStatus _status;
 
-        public SubmissionService(CaseManagementContext context)
+
+        public SubmissionService(CaseManagementContext context, ICase cases, IStatus status)
         {
             _context = context;
+            _cases = cases;
+            _status = status;
+      
         }
 
         public void Add(Submission newSubmission)
@@ -73,14 +79,48 @@ namespace CaseManagementServices
 
         }
 
-        public void SaveChanges()
+
+
+        public IEnumerable<Submission> GetBreachedSubmissions(int userId)
         {
-            _context.SaveChanges();
+            IEnumerable<Case> cases = _cases.GetCases(userId);
+            List<Submission> allBreachedSubmissions = new List<Submission>();
+
+            foreach (Case c in cases)
+            {
+                List<Submission> breachedSubmissions = _context.Submissions
+                .Include(s => s.Bank)
+                .Include(s => s.Case)
+                .Include(s => s.Status)
+                .Where(s => (System.DateTime.Now - s.DateSubmitted).Days > 2)
+                                                               .Where(s => s.Status == _status.Get("Submitted") ).ToList();
+
+
+
+            
+                if(breachedSubmissions.Any())
+                {
+                    foreach (Submission s in breachedSubmissions)
+                    {
+                        allBreachedSubmissions.Add(s);
+                    }
+                }
+
+            }
+
+
+            return allBreachedSubmissions;
         }
 
         public IEnumerable<Submission> GetSubmissionsOfStatus(string status)
         {
             return _context.Submissions.Where(s => s.Status == _context.Statuses.FirstOrDefault(sub => sub.Name == status));
+        }
+
+
+        public void SaveChanges()
+        {
+            throw new NotImplementedException();
         }
     }
 

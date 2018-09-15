@@ -27,6 +27,7 @@
 
   <ItemGroup>
     <Folder Include="Views\images\" />
+    <Folder Include="Models\Home\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -34,4 +35,7 @@
     <None Include="wwwroot\images\Thumbs.db" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Models\Home\HomeModel.cs" />
+  </ItemGroup>
 </Project>
